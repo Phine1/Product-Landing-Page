@@ -127,6 +127,7 @@ h2 {
     padding: 10px; 
 }
 h3 {
+    display:none;
     color: whitesmoke;
     padding: 20px;
     margin-top: 2rem;
